@@ -1,2 +1,2 @@
 print("Cao iz repozitorijuma.")
-print("Github proba...123")
+print("Github proba...")
